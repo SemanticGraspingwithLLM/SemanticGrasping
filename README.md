@@ -1,5 +1,6 @@
 # SemanticGrasping
 Semantic_graspingのリポジトリです。
+やったこと/ やらないといけないことを書いてください
 
 ## モジュール一覧
 ### カメラ映像入力

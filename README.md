@@ -1,16 +1,4 @@
 # SemanticGrasping
-Semantic_graspingのリポジトリです。
-やったこと/ やらないといけないことを書いてください
 
-## モジュール一覧
-### カメラ映像入力
-
-### VLPart
-
-### LLM
-
-### 点群切り抜き
-
-### Acronym
-
-### シミュレーション
+- `src/extract_part_for_grasping.ipynb`
+  - GPT-4を用いて，物体の把持に適切な部位を取り出す
